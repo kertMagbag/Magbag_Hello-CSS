@@ -1,0 +1,19 @@
+body{
+    background-color: darkgray;
+}
+h1{
+    color: #00ffff;
+    font-family: Helvetica, Arial, sans-serif;
+}
+p{
+    color:blue;
+    font-family: Helvetica, Arial, sans-serif;
+}
+h2{
+    color:#00ffff;
+    font-family: Helvetica, Arial, sans-serif;
+}
+li,ol{
+    color:blue;
+    font-family: Helvetica, Arial, sans-serif;
+}
